@@ -1,4 +1,7 @@
 {
+  "dependencies": {
+    "express": "4.12.3"
+  },
   "devDependencies": {
     "karma": "0.12.31",
     "karma-chai": "0.1.0",
